@@ -1,0 +1,7 @@
+org: phillipjuanvanderberg
+app: borderless-server
+component: express
+name: express-starter
+
+inputs:
+  src: ./
